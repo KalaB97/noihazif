@@ -125,4 +125,7 @@ background-size: cover;
   h2{
     text-align: center;
   }
-  
+  table, th, tr, td{
+    border:#222 1px solid
+
+  }

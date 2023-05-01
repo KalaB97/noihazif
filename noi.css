@@ -117,3 +117,6 @@ background-size: cover;
   .demo:hover {
     opacity: 1;
   }
+  h2{
+    text-align: center;
+  }

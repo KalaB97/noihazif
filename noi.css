@@ -34,8 +34,12 @@ background-size: cover;
   }
   img {
     vertical-align: middle;
+    size:100px;
+    
+  
   }
   
+
  
   .container {
     position: relative;
@@ -44,6 +48,7 @@ background-size: cover;
 
   .mySlides {
     display: none;
+    
   }
   
   
@@ -120,3 +125,4 @@ background-size: cover;
   h2{
     text-align: center;
   }
+  

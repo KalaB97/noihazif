@@ -18,6 +18,7 @@ color:black;
     padding: 20px;
     text-align: left;
     font-family:serif ;
+
   }
   .hatter{
 
@@ -129,3 +130,8 @@ background-size: cover;
   table , th , tr ,td{
     border: 1px solid black;
   }
+ a:active , a:link ,a:hover ,a:visited {
+  color: black;
+  text-decoration: none;
+
+ }
